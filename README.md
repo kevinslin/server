@@ -20,7 +20,7 @@ A Github bot to keep a fork updated with any changes made to its upstream. [Visi
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/backstroke.co.svg?maxAge=2592000)](https://backstroke.co)
 
-## Add Backstroke to a repository
+## Add Backstroke to a repository test
 
 1. Go to [backstroke.co](https://backstroke.co), and sign in with your Github account.
 2. Click `Create new link`
